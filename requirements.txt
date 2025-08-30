@@ -8,6 +8,9 @@ APscheduler
 pymongo
 motor
 dnspython
+aiosqlite
+aiomysql
+asyncpg
 # --- For-Web-Response ------- #
 aiohttp
 python-dotenv
